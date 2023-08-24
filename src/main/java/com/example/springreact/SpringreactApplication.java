@@ -10,7 +10,6 @@ public class SpringreactApplication {
 		SpringApplication.run(SpringreactApplication.class, args);
 
 		System.out.println("start_Main");
-		System.out.println("start_Main2");
 		System.out.println("start_Main3");
 
 	}
