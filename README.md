@@ -1,2 +1,2 @@
 # react-springboot
-react-springboot 연습
+react-springboot 연습입니다.
